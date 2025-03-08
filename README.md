@@ -29,11 +29,11 @@ pratik-patil-4738x
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently Studying✍🏻 in Mit Academy College of Engineering,Pune</li>
-            <li> 💬 Ask me about React <img align="center"
+<!--             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" />, Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /></li>
+                    width="16" /></li> -->
             <li> 🎓 I'm currently learning Flutter <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
