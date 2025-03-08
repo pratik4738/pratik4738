@@ -6,7 +6,7 @@
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>Maharastra, India</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14 " /> .<br />
         I love building side projects 😍, and happy to work in any type of projects. </p>
     <div>
         <a href="" target="_blank"><img alt="Twitter"
