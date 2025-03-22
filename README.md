@@ -7,7 +7,7 @@
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Web developer</b> 🚀 from <b>Maharastra, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14 " /> .<br />
-        I love building side projects 😍, and happy to work in any type of projects. </p>
+        I love building side projects 😍, <br>and happy to work in any type of projects. </p>
     <div>
         <a href="" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -28,7 +28,7 @@ pratik-patil-4738x
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently Studying✍🏻 in Mit Academy College of Engineering,Pune</li>
+            <li> 👨🏻‍💻 I'm currently Studying✍🏻in  <br>Mit Academy College of Engineering,Pune</li>
 <!--             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" />, Javascript <img align="center"
@@ -36,7 +36,8 @@ pratik-patil-4738x
                     width="16" /></li> -->
             <li> 🎓 I'm currently learning Flutter <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
-                    width="16" /></li>
+                    width="16" /> and DSA in Java   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="17"
+                alt="Java" /> </li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:Pratikspatil009@gmail.com" target="_blank">Pratikspatil009@gmail.com</a></li>
