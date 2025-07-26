@@ -56,19 +56,71 @@
 
 ---
 
-### 🧰 Languages and Tools
+<h2 align="center">🛠️ Tech Stack & Tools I Use</h2>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="45" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="48" title="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" title="HTML5" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="38" title="CSS3" />
-  <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="48" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="48" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="45" title="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" title="VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="45" title="Git" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <th>Languages</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="40" title="Java" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" title="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" title="TypeScript" />
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" title="HTML5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="38" title="CSS3" />
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" title="React.js" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" title="Node.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" title="Express.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Spring_Framework_Logo_2018.svg" width="40" title="Spring Boot" />
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" title="FastAPI" />
+      </td>
+    </tr>
+    <tr>
+      <th>Databases</th>
+      <th>Dev Tools</th>
+      <th>AI / ML</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" title="MongoDB" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" title="MySQL" />
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" title="PostgreSQL" /> -->
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" title="Git" />
+        <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" title="VS Code" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Eclipse_Logo.svg" width="40" title="Eclipse" />
+        <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="30" title="MongoDB Atlas" />
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" title="Pandas" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Numpy_logo_200.png" width="40" title="NumPy" />
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" title="TensorFlow / ResNet" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Natural_Language_Processing.png" width="40" title="NLP" /> -->
+      </td>
+    </tr>
+    <tr>
+      <th colspan="3">API & Dev Libraries</th>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://companieslogo.com/img/orig/RZRP.F-8c70f4a6.png?t=1633512433" width="40" title="Razorpay" />
+        <img src="https://i.postimg.cc/wTMQXFYF/bhashini-logo.png" width="40" title="Bhashini" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" title="Socket.io" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/WebRTC_Logo.svg" width="40" title="WebRTC" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
