@@ -75,8 +75,7 @@
 
 
 
-<h1>📈 Grow4738x – Raw Truth. Real Growth.  </h1>## 🔔 Subscribe Now    [![Subscribe](https://img.shields.io/badge/Subscribe-Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Pratik4738xGrow?sub_confirmation=1)
-
+<h1>📈 Grow4738x – Raw Truth. Real Growth.  - 🔔 Subscribe Now   </h1>   
 
 
 👋 Hi, udeI’m **Pratik Patil**
