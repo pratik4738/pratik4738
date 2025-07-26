@@ -44,8 +44,11 @@
           <a href="https://pratiksp.netlify.app/" target="_blank">My Portfolio</a>
         </li>
         <li>📄 Here's my 
-          <a href="#" target="_blank">Resume</a>
+           Resume
+
+📌 **[View My Resume (PDF)](https://github.com/pratik4738/resume-repo/raw/main/resumepratikpatil_1750259429.pdf)**  
         </li>
+        <li> 🧑‍💼 Want to collaborate or hire? Reach out at [pratikspatil009@gmail.com](mailto:pratikspatil009@gmail.com) </li>
       </ul>
     </td>
   </tr>
