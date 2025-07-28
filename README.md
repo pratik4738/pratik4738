@@ -98,7 +98,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" title="Git" />
         <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" title="VS Code" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Eclipse_Logo.svg" width="40" title="Eclipse" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Eclipse_Logo.svg" width="20" title="Eclipse" />
         <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="30" title="MongoDB Atlas" />
       </td>
       <td>
