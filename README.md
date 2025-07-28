@@ -122,6 +122,43 @@
   </table>
 </div>
 
+<h2 align="center">🔥 LeetCode Java DSA Mastery</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>👨🏻‍💻 Problem Solving</th>
+      <th>🏆 Badges & Milestones</th>
+      <th>🔗 Profile</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <ul align="left">
+          <li>✔️ Solved 140+ DSA Problems</li>
+          <li>💡 Focused on Java + Data Structures</li>
+          <li>🧠 Covers All core concepts and Algorithms and followed Striver DSA Sheet</li>
+          <li>🚀 Daily Streak: <b>40+ Days</b></li>
+          <li>🗂️ Preparing with curated topic lists</li>
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://github.com/your-username/your-repo/blob/main/assets/2550.gif?raw=true" width="200" title="50-Day Streak Badge"/>
+        <br/><br/>
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=pratikspatil009&theme=dark" alt="LeetCode Stats" />
+        <br/>
+        <img src="https://img.shields.io/badge/Java-DSA-blue?style=for-the-badge&logo=java&logoColor=white" />
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/pratikspatil009" target="_blank">
+          <img src="https://img.shields.io/badge/View_Profile-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ---
 
 > 💥 *Let’s build something legendary, together.*  
