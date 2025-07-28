@@ -125,6 +125,8 @@
 <h2 align="center">🔥 LeetCode Java DSA Mastery</h2>
 
 <div align="center">
+<img width="1150" height="347" alt="image" src="https://github.com/user-attachments/assets/88650be6-fa9c-4c82-a1d2-6ace4f7b34b8" />
+
   <table>
     <tr>
       <th>👨🏻‍💻 Problem Solving</th>
@@ -134,7 +136,7 @@
     <tr>
       <td align="center">
         <ul align="left">
-          <li>✔️ Solved 140+ DSA Problems</li>
+          <li>✔️ Solved 135+ DSA Problems</li>
           <li>💡 Focused on Java + Data Structures</li>
           <li>🧠 Covers All core concepts and Algorithms and followed Striver DSA Sheet</li>
           <li>🚀 Daily Streak: <b>40+ Days</b></li>
