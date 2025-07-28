@@ -125,7 +125,6 @@
 <h2 align="center">🔥 LeetCode Java DSA Mastery</h2>
 
 <div align="center">
-<img width="1150" height="347" alt="image" src="https://github.com/user-attachments/assets/88650be6-fa9c-4c82-a1d2-6ace4f7b34b8" />
 
   <table>
     <tr>
